@@ -1,0 +1,42 @@
+[
+  {
+    "id": "monthly",
+    "name": "Plan Mensual",
+    "price": 9.99,
+    "description": "Recibe SportQuora cada mes directamente en tu buzón",
+    "features": [
+      "Revista impresa mensual",
+      "Acceso a la versión digital",
+      "Newsletter exclusiva",
+      "Sin compromiso de permanencia"
+    ],
+    "popular": false
+  },
+  {
+    "id": "annual",
+    "name": "Plan Anual",
+    "price": 99.99,
+    "description": "Suscripción anual con 2 meses gratis",
+    "features": [
+      "12 números de la revista impresa",
+      "Acceso a la versión digital",
+      "Newsletter exclusiva",
+      "Acceso a archivo histórico",
+      "Regalo de bienvenida exclusivo"
+    ],
+    "popular": true
+  },
+  {
+    "id": "digital",
+    "name": "Plan Digital",
+    "price": 5.99,
+    "description": "Acceso a la versión digital de SportQuora",
+    "features": [
+      "Versión digital mensual",
+      "Acceso a contenido exclusivo online",
+      "Newsletter exclusiva",
+      "Sin compromiso de permanencia"
+    ],
+    "popular": false
+  }
+]

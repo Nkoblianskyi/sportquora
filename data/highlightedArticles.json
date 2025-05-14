@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "La Revolución del Entrenamiento Basado en Datos",
+    "excerpt": "Cómo los equipos deportivos de élite están utilizando el análisis de datos para optimizar el rendimiento de sus atletas y ganar ventaja competitiva.",
+    "image": "/0ecae48201b9f920125dcfe4ea10a086.jpg",
+    "category": "Tecnología"
+  },
+  {
+    "id": 2,
+    "title": "El Impacto Psicológico de las Lesiones en Deportistas",
+    "excerpt": "Un análisis profundo sobre cómo las lesiones afectan mentalmente a los deportistas y las estrategias para una recuperación integral.",
+    "image": "/18e0020d8f54e7c04135889bb1677c31.jpg",
+    "category": "Psicología"
+  },
+  {
+    "id": 3,
+    "title": "Deportes Urbanos: La Nueva Tendencia",
+    "excerpt": "Exploramos el auge de los deportes urbanos y cómo están cambiando el panorama deportivo en las ciudades españolas.",
+    "image": "/5bcd4397c4bd49d2e51d6d1d52f51e48.jpg",
+    "category": "Tendencias"
+  },
+  {
+    "id": 4,
+    "title": "Nutrición Personalizada: El Futuro del Rendimiento",
+    "excerpt": "Descubre cómo la nutrición personalizada está revolucionando el rendimiento deportivo a todos los niveles.",
+    "image": "/d4eb6d776aedb4e74916f3d5aa41ae8a.jpg",
+    "category": "Nutrición"
+  },
+  {
+    "id": 5,
+    "title": "La Evolución de los Estadios Sostenibles",
+    "excerpt": "Analizamos cómo los nuevos estadios deportivos están incorporando tecnologías sostenibles y reduciendo su impacto ambiental.",
+    "image": "/f360a3b48273564fa2941ce3f266fe52.jpg",
+    "category": "Sostenibilidad"
+  },
+  {
+    "id": 6,
+    "title": "Deportes Tradicionales: Preservando el Legado",
+    "excerpt": "Un recorrido por los deportes tradicionales españoles que están siendo revitalizados por las nuevas generaciones.",
+    "image": "/1d16dee77cb1b994c041bc61f44bd071.jpg",
+    "category": "Cultura"
+  }
+]

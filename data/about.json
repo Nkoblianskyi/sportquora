@@ -1,0 +1,70 @@
+{
+  "history": {
+    "title": "Nuestra Historia",
+    "content": [
+      "SportQuora nació en 2025 con una misión clara: ofrecer periodismo deportivo de calidad, profundo y analítico en un momento en que el contenido deportivo se volvía cada vez más superficial y sensacionalista.",
+      "Fundada por un grupo de periodistas deportivos apasionados y experimentados, la revista comenzó como una publicación mensual con un enfoque en el fútbol español. Con el tiempo, ampliamos nuestra cobertura para incluir una amplia gama de deportes.",
+      "Desde nuestro lanzamiento, hemos mantenido nuestro compromiso con el periodismo deportivo de calidad, ganando rápidamente reconocimiento en la industria y construyendo una base de lectores leales que valoran nuestro enfoque reflexivo y detallado del deporte."
+    ]
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "items": [
+      {
+        "title": "Integridad",
+        "description": "Nos comprometemos a mantener los más altos estándares éticos en nuestro periodismo, presentando información precisa y equilibrada."
+      },
+      {
+        "title": "Profundidad",
+        "description": "Creemos en ir más allá de los titulares para ofrecer análisis detallados y contextualizados que ayuden a nuestros lectores a entender mejor el mundo del deporte."
+      },
+      {
+        "title": "Independencia",
+        "description": "Mantenemos nuestra independencia editorial, lo que nos permite cubrir historias sin presiones externas y con total libertad."
+      },
+      {
+        "title": "Innovación",
+        "description": "Constantemente buscamos nuevas formas de contar historias deportivas, utilizando datos, visualizaciones y formatos narrativos innovadores."
+      },
+      {
+        "title": "Comunidad",
+        "description": "Valoramos la conexión con nuestra comunidad de lectores y buscamos fomentar conversaciones significativas sobre el deporte y su impacto en la sociedad."
+      }
+    ]
+  },
+  "team": {
+    "title": "Nuestro Equipo Editorial",
+    "members": [
+      {
+        "name": "Carlos Martínez",
+        "position": "Director Editorial",
+        "bio": "Con amplia experiencia en periodismo deportivo, Carlos ha liderado SportQuora desde su fundación en 2025, estableciendo la visión editorial y los estándares de calidad de la revista."
+      },
+      {
+        "name": "Elena Rodríguez",
+        "position": "Editora Jefe",
+        "bio": "Especializada en deportes de equipo, Elena supervisa el contenido diario de la revista y coordina nuestro equipo de redactores y colaboradores."
+      },
+      {
+        "name": "Miguel Sánchez",
+        "position": "Editor de Fútbol",
+        "bio": "Ex analista táctico, Miguel aporta una perspectiva única a nuestra cobertura de fútbol, centrándose en análisis tácticos y tendencias del juego."
+      },
+      {
+        "name": "Laura Gómez",
+        "position": "Editora de Deportes Olímpicos",
+        "bio": "Con experiencia cubriendo eventos deportivos internacionales, Laura lidera nuestra cobertura de deportes olímpicos y atletismo."
+      },
+      {
+        "name": "Javier López",
+        "position": "Editor de Deportes de Motor",
+        "bio": "Apasionado de la Fórmula 1 y el motociclismo, Javier aporta conocimientos técnicos y análisis detallados a nuestra cobertura de deportes de motor."
+      },
+      {
+        "name": "Ana Fernández",
+        "position": "Editora de Deportes Emergentes",
+        "bio": "Ana se especializa en descubrir y cubrir deportes emergentes y tendencias deportivas innovadoras que están ganando popularidad."
+      }
+    ]
+  }
+}

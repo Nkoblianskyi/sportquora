@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "La Evolución del Fútbol Moderno",
+    "month": "Enero",
+    "year": 2025,
+    "coverImage": "/ddd40caee9b495d5bb7e01eb26023b2e.jpg",
+    "description": "Un análisis profundo de cómo ha evolucionado el fútbol en la última década, con entrevistas exclusivas a entrenadores y análisis tácticos."
+  },
+  {
+    "id": 2,
+    "title": "Baloncesto: Estrategias Ganadoras",
+    "month": "Febrero",
+    "year": 2025,
+    "coverImage": "/9eec85b350e17f58030dac428bbf8e8d.jpg",
+    "description": "Descubre las estrategias que utilizan los mejores equipos de baloncesto para dominar en la cancha, con análisis detallados de jugadas clave."
+  },
+  {
+    "id": 3,
+    "title": "El Auge del Ciclismo Urbano",
+    "month": "Marzo",
+    "year": 2025,
+    "coverImage": "/6872acaa0f2c4977dc501e1f9cb5dd33.jpg",
+    "description": "Exploramos el creciente fenómeno del ciclismo urbano y su impacto en las ciudades modernas, con consejos para ciclistas urbanos."
+  },
+  {
+    "id": 4,
+    "title": "Tenis: La Nueva Generación",
+    "month": "Abril",
+    "year": 2025,
+    "coverImage": "/a82910271b8b675407dd27cb3c41a0a8.jpg",
+    "description": "Conoce a las nuevas promesas del tenis mundial que están revolucionando este deporte con su talento y determinación."
+  },
+  {
+    "id": 5,
+    "title": "Natación: Técnicas Avanzadas",
+    "month": "Mayo",
+    "year": 2025,
+    "coverImage": "/56c2f47022ae5040e2e6051ad1b9b2b6.jpg",
+    "description": "Analizamos las técnicas de natación más avanzadas utilizadas por los campeones olímpicos, con guías paso a paso para mejorar tu rendimiento."
+  }
+]

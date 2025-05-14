@@ -1,0 +1,187 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+  --primary-color: #dc2626;
+  --primary-color-hover: #b91c1c;
+  --form-border-color: #e2e8f0;
+  --form-bg-color: #ffffff;
+  --form-input-border: #ced4da;
+  --form-input-focus: #dc2626;
+  --form-error-color: #ef4444;
+  --form-label-color: #374151;
+  --form-text-color: #1f2937;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+.container {
+  @apply mx-auto px-4 max-w-7xl;
+}
+
+.btn-primary {
+  @apply bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-md transition-colors;
+}
+
+.btn-secondary {
+  @apply bg-white hover:bg-gray-100 text-red-600 font-bold py-3 px-6 rounded-md border border-red-600 transition-colors;
+}
+
+.section-title {
+  @apply text-3xl md:text-4xl font-bold mb-6 text-center;
+}
+
+.section-subtitle {
+  @apply text-xl md:text-2xl font-semibold mb-4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-serif;
+}
+
+/* Стили для кнопок PrimeReact */
+:root {
+  --primary-color: #dc2626;
+  --primary-color-hover: #b91c1c;
+}
+
+.p-button {
+  padding: 0.75rem 1.5rem !important;
+  border-radius: 0.375rem !important;
+  font-weight: 600 !important;
+}
+
+.p-button.p-button-outlined {
+  border: 1px solid var(--primary-color) !important;
+  color: var(--primary-color) !important;
+  background: transparent !important;
+}
+
+.p-button.p-button-outlined:hover {
+  background: rgba(220, 38, 38, 0.04) !important;
+}
+
+.p-button.p-button-text {
+  color: var(--primary-color) !important;
+}
+
+.p-button:not(.p-button-outlined):not(.p-button-text):not(.p-button-link) {
+  background: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.p-button:not(.p-button-outlined):not(.p-button-text):not(.p-button-link):hover {
+  background: var(--primary-color-hover) !important;
+  border-color: var(--primary-color-hover) !important;
+}
+
+/* Общие стили для форм */
+.form-container {
+  @apply bg-white p-6 sm:p-8 rounded-lg shadow-md border border-slate-200;
+}
+
+.form-group {
+  @apply mb-4;
+}
+
+.form-label {
+  @apply block text-sm font-medium text-gray-700 mb-1;
+}
+
+.form-input {
+  @apply w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-red-500 focus:border-red-500 transition-colors;
+}
+
+.form-error {
+  @apply text-red-500 text-sm mt-1;
+}
+
+.form-checkbox-wrapper {
+  @apply border border-gray-300 rounded p-1 flex items-center justify-center hover:border-red-500 transition-colors;
+}
+
+.form-checkbox-label {
+  @apply ml-2 text-sm text-gray-700;
+}
+
+.form-submit {
+  @apply mt-6 flex justify-center;
+}
+
+/* Стили для компонентов PrimeReact */
+.p-inputtext {
+  @apply border border-gray-300 rounded-md py-2 px-3 w-full transition-colors;
+}
+
+.p-inputtext:enabled:focus {
+  @apply border-red-500 shadow-none ring-2 ring-red-500/20;
+  box-shadow: none !important;
+}
+
+.p-inputtext.p-invalid {
+  @apply border-red-500;
+}
+
+.p-dropdown {
+  @apply border border-gray-300 rounded-md w-full transition-colors;
+}
+
+.p-dropdown:not(.p-disabled).p-focus {
+  @apply border-red-500 shadow-none ring-2 ring-red-500/20;
+  box-shadow: none !important;
+}
+
+.p-dropdown.p-invalid {
+  @apply border-red-500;
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight {
+  @apply bg-red-500 text-white;
+}
+
+.p-inputtextarea {
+  @apply border border-gray-300 rounded-md py-2 px-3 w-full transition-colors;
+}
+
+.p-inputtextarea:enabled:focus {
+  @apply border-red-500 shadow-none ring-2 ring-red-500/20;
+  box-shadow: none !important;
+}
+
+.p-inputtextarea.p-invalid {
+  @apply border-red-500;
+}
+
+/* Стили для чекбокса */
+.p-checkbox .p-checkbox-box {
+  border: 1px solid #ced4da !important;
+  border-radius: 4px !important;
+  transition: all 0.2s !important;
+}
+
+.p-checkbox:not(.p-checkbox-disabled) .p-checkbox-box:hover {
+  border-color: var(--primary-color) !important;
+}
+
+.p-checkbox .p-checkbox-box.p-highlight {
+  background: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+/* Мобильные стили для кнопок */
+@media (max-width: 640px) {
+  .p-button {
+    padding: 0.625rem 1.25rem !important;
+  }
+}

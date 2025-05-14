@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "¿Con qué frecuencia se publica SportQuora?",
+    "answer": "SportQuora se publica mensualmente. Cada número está disponible al principio de cada mes, tanto en formato impreso como digital para nuestros suscriptores."
+  },
+  {
+    "id": 2,
+    "question": "¿Cómo puedo suscribirme a la revista?",
+    "answer": "Puede suscribirse fácilmente a través de nuestra página de suscripción en línea. Ofrecemos planes mensuales y anuales con diferentes beneficios."
+  },
+  {
+    "id": 3,
+    "question": "¿Puedo comprar números anteriores de la revista?",
+    "answer": "Sí, los números anteriores están disponibles para su compra mientras haya existencias. Puede solicitarlos a través de nuestro servicio de atención al cliente."
+  },
+  {
+    "id": 4,
+    "question": "¿Cuánto tarda en llegar mi revista después de suscribirme?",
+    "answer": "Para nuevos suscriptores, el primer número se envía dentro de los 5 días hábiles posteriores a la confirmación de su suscripción. Los números subsiguientes se envían antes del día 1 de cada mes."
+  },
+  {
+    "id": 5,
+    "question": "¿Puedo cancelar mi suscripción en cualquier momento?",
+    "answer": "Sí, puede cancelar su suscripción en cualquier momento. Para suscripciones mensuales, la cancelación será efectiva para el siguiente ciclo de facturación. Para suscripciones anuales, no ofrecemos reembolsos parciales."
+  },
+  {
+    "id": 6,
+    "question": "¿Envían la revista fuera de España?",
+    "answer": "Actualmente, enviamos a toda España peninsular, Islas Baleares, Islas Canarias, Ceuta y Melilla. Para envíos internacionales, por favor contacte con nuestro servicio de atención al cliente."
+  },
+  {
+    "id": 7,
+    "question": "¿Ofrecen contenido digital además de la revista impresa?",
+    "answer": "Sí, todos los suscriptores tienen acceso a nuestra versión digital de la revista, así como a contenido exclusivo en nuestra plataforma online."
+  },
+  {
+    "id": 8,
+    "question": "¿Cómo puedo cambiar mi dirección de envío?",
+    "answer": "Puede actualizar su dirección de envío en cualquier momento a través de su cuenta en nuestra web o contactando con nuestro servicio de atención al cliente."
+  }
+]
